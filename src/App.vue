@@ -9,6 +9,9 @@ import { mapGetters } from 'vuex'
 const getters = {
   test () {
     return 1
+  },
+  test2 () {
+    return 1
   }
 }
 function fn (arr) {
